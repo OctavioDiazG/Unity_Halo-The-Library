@@ -21,6 +21,18 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode
+
+# Mac OS X
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+#Rider JetBrains
+.idea/
+*.iml
 
 # Gradle cache directory
 .gradle/
